@@ -14,7 +14,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/xuenaimiao/evejs-mod-evejs-sc-ships/releases/download/v0.3.0/evejs-sc-ships-0.3.0.zip"
+      "url": "https://github.com/xuenaimiao/evejs-mod-evejs-sc-ships/releases/download/v0.3.1/evejs-sc-ships-0.3.1.zip"
     }
   ],
   "evejsVersions": [
@@ -24,15 +24,15 @@
   "highlights": [],
   "history": [],
   "id": "evejs-sc-ships",
-  "publishedAt": "2026-10-22",
+  "publishedAt": "2026-10-23",
   "readme": [
     "把《星际公民》的 66 艘船做成 EVE 里**真正新增的舰船类型**（typeID 930001–930066），第三人称显示 SC 的完整外壳模型（含默认配置的引擎、炮塔、舱门）。\n实验性，仅供个人本地试用；资产由玩家自己的《星际公民》安装转换而来，不随仓库分发。",
     "飞行属性、装配、挂点数量都是「属性基于」那艘船的；只有外观是 SC 的。名字、说明有中英文。"
   ],
   "repo": "https://github.com/xuenaimiao/evejs-mod-evejs-sc-ships",
   "requiresRestart": true,
-  "sha256": "9265a29338dea79fe78a840c50c4edaf49c1f5acd24379a1b101ae30843a1e01",
-  "sizeBytes": 67063938,
+  "sha256": "6d9cfd7ecd7546302418bd53fa4540d39d9e46d7c1af076bc84a1b57ddcf561f",
+  "sizeBytes": 67065415,
   "tags": [],
-  "version": "0.3.0"
+  "version": "0.3.1"
 }

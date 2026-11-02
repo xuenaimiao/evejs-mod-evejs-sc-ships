@@ -14,7 +14,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/xuenaimiao/evejs-mod-evejs-sc-ships/releases/download/v0.3.6/evejs-sc-ships-0.3.6.zip"
+      "url": "https://github.com/xuenaimiao/evejs-mod-evejs-sc-ships/releases/download/v0.3.7/evejs-sc-ships-0.3.7.zip"
     }
   ],
   "evejsVersions": [
@@ -32,8 +32,8 @@
   ],
   "repo": "https://github.com/xuenaimiao/evejs-mod-evejs-sc-ships",
   "requiresRestart": true,
-  "sha256": "03f5aa52a69bd3bf820d0afc69d0afe61abf5fa4119f3411faa4682579d28c83",
-  "sizeBytes": 67088316,
+  "sha256": "147cb8fb3c30fc118cd37c58abc3721c9754410376f40f5bdfb6ed413993d6c5",
+  "sizeBytes": 69186940,
   "tags": [
     "星际公民",
     "Star",
@@ -41,5 +41,5 @@
     "仙女座",
     "北极星"
   ],
-  "version": "0.3.6"
+  "version": "0.3.7"
 }
